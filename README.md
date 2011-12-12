@@ -1,5 +1,5 @@
 Freekick
---------
+========
 
 Freekick is a football freckick simulator which uses real physics of football to calculate ball trajectory.
 
